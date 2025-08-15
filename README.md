@@ -1,6 +1,6 @@
 # Big Calendar Vue
 
-A Vue 3 port of the [Big Calendar React component](https://github.com/lramos33/big-calendar), featuring month and week views with comprehensive event management.
+A Vue 3 port of the [Big Calendar React component](https://github.com/lramos33/big-calendar), featuring month, week, day and year views.
 
 ## Demo
 
